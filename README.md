@@ -8,7 +8,7 @@ Additionally there are 3D-designs, a Labview based control code using either a T
 ## MEMS-LightSheet design
 The below 3D-schematic shows the overall setup, excluting the fibre coupled lasers and sample stage.
 
-![3D design overview](https://github.com/RalfBauerUoS/MEMS-SIM/blob/main/3D%20design%20MEMS-SIM/3D%20design%20overview%202.png)
+![3D design overview](https://github.com/RalfBauerUoS/MEMS-LightSheet/blob/e603550dc8dcb333513d0b4326fdfd7360f2330e/3D%20assembly/3D-design-overview-MEMS-LSFM.png)
 
 The 3D parts and full assembly of the shown setup are available in Autodesk Inventor format under [??].
 
